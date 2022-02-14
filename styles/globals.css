@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper{
+  padding-inline: 1em !important;
+  padding-block: 2em !important;
+  margin-inline: 1em !important;
+} 
+
+.swiper-slide{
+  height: auto !important;
+  min-height: 12rem;
+}
